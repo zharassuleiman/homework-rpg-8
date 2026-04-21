@@ -49,3 +49,4 @@ public class Hero {
         if (isAlive()) state.onTurnEnd(this);
     }
 }
+
